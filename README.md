@@ -11,7 +11,7 @@ Origine : [Armigo](https://hackropole.fr/fr/challenges/pwn/fcsc2019-pwn-hola-arm
 
 
 ## Connectez vous en WEBSSH
-> http://loaclhost
+> http://localhost
 
 #### tentez 
 > nc armigo.cyrhades.com:4000
