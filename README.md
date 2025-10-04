@@ -14,7 +14,7 @@ Origine : [Armigo](https://hackropole.fr/fr/challenges/pwn/fcsc2019-pwn-hola-arm
 > http://localhost
 
 #### tentez 
-> nc armigo.cyrhades.com:4000
+> nc armigo.cyrhades.fr:4000
 
 
 -----------
